@@ -7,7 +7,7 @@ This repository contains the official documentation of the mini project titled *
 - 📘 [`CNN_Object_Recognition_Documentation.docx`](CNN_Object_Recognition_Documentation.docx): Full project report.
 - 🧪 [`CNN_Object_Recognition_CIFAR10.ipynb`](CNN_Object_Recognition_CIFAR10.ipynb): Sample CNN implementation using CIFAR-10.
 - 🖼️ Notebook Preview:  
-  ![Notebook Preview](A_Jupyter_Notebook_titled_%22Object_Recognition_in_P.png)
+ ![Notebook Preview](Object_Recognition_in_P.png)
 
 ## 📚 Abstract
 
